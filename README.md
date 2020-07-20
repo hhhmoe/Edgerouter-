@@ -1,4 +1,4 @@
-# Simplified Chinese Edgerouter Translater|EdgerRouter全版本汉化工具
+# Simplified Chinese Edgerouter Translater|EdgeRouter全版本汉化工具
 特性：
 - 没有型号、版本依赖。升级固件后再运行一次就可以了，大不了新词汇找不到还是E文而已。
 - 安全。也就是一个简单的脚本，谁都能打开来看，不象其它编译的程序或是别人弄好的模板，要担心有没夹带私货。
